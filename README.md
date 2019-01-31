@@ -2,7 +2,7 @@
 This application it's a Sample about how you should use JWT to protect your API's 
 with token based authentication.
 
-#### The frameworks used there were: 
+### The frameworks used were: 
 - Express
 - Mongoose
 - JsonWebToken
